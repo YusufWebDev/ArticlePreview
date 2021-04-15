@@ -48,7 +48,7 @@ body {
 .container {
 	margin: 0 auto;
 	border-radius: 0.5rem;
-	overflow: hidden;
+/* 	overflow: hidden; */
 	background-color: #fff;
 	-webkit-box-shadow: -2px 10px 22px 0px rgba(0, 0, 0, 0.41);
 	box-shadow: -2px 10px 22px 0px hsl(212, 23%, 69%, 0.8);
